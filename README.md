@@ -90,7 +90,7 @@ Demo video available in the **Videos** folder.
 
 ## Authors
 
-**V. Raghuveer**
+**VURA MANI SWAROOP**
 
 Electronics and Communication Engineering (ECE)
 
